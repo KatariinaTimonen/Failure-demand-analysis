@@ -1,5 +1,6 @@
 # Failure demand analysis
-The materials in this project were done as a part of a master's thesis that studied failure demand from a Finnish wellbeing service county's healthcare units. More detailed explanations about the data collection form and about the general investment model can be found from the master's thesis. The master's thesis can be found from this link: (link added soon). The data collection form is used to collect data about failure demand amount and different failure demand types in healthcare primary care service. The model is used to assess the economic feasibility of failure demand mitigation. 
+The materials in this project were done as a part of a master's thesis that studied failure demand from a Finnish wellbeing service county's healthcare units. More detailed explanations about the data collection form and about the general investment model can be found from the master's thesis. The master's thesis can be found from this link: https://urn.fi/URN:NBN:fi-fe2024092074054
+The data collection form is used to collect data about failure demand amount and different failure demand types in healthcare primary care service. The model is used to assess the economic feasibility of failure demand mitigation. 
 
 ----
 Data collection form
